@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JAX-WS-ENDORSED">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JAX-WS-ENDORSED/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JAX-WS-ENDORSED/jaxb-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
